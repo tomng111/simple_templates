@@ -5,3 +5,4 @@ Hope you could find them interesting. Have a nice day!<br />
 ## Branches<br /> 
 - industrial_networks
 - motor_control
+- industrial_robot
