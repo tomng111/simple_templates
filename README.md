@@ -1,8 +1,4 @@
-# Simple Templates
-Here I upload some simple templates for the industrial courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br /> 
-- industrial_networks
-- motor_control
-- industrial_robot
+# Arduino
+Arduino projects.<br />
+## Sources<br /> 
+- mpu6050Projekt - <ins>arduinokit.vn/huong-dan-su-dung-cam-bien-gia-toc-mpu6050-voi-arduino</ins>
