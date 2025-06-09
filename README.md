@@ -2,4 +2,3 @@
 Industrial network projects<br />
 ## Structure<br /> 
 - PROFINET project
-- MODBUS project
