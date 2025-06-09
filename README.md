@@ -3,6 +3,6 @@ Here I upload some simple templates for the industrial courses that I taught sin
 These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
 Hope you could find them interesting. Have a nice day!<br />
 ## Branches<br /> 
+- arduino
 - industrial_networks
-- motor_control
 - industrial_robot
