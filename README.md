@@ -1,8 +1,5 @@
-# Simple Templates
-Here I upload some simple templates for the industrial courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br /> 
-- arduino
-- industrial_networks
-- industrial_robot
+# NI myRIO
+NI myRIO projects<br />
+## Structure<br /> 
+- helloWorld - Hello World project with built-in button and 4 LEDs (NI myRIO 1900)
+- digitalInOut - Digital input and output project (NI myRIO 1950)
