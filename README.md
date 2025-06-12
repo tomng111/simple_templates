@@ -4,5 +4,8 @@ These templates are used to build the complete projects according to the Lab-Han
 Hope you could find them interesting. Have a nice day!<br />
 ## Branches<br /> 
 - arduino
+- c_cpp
+- funda_plc
 - industrial_networks
 - industrial_robot
+- ni_myrio
