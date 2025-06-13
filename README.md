@@ -5,7 +5,9 @@ Hope you could find them interesting. Have a nice day!<br />
 ## Branches<br /> 
 - arduino
 - c_cpp
+- daq_labview
 - funda_plc
 - industrial_networks
 - industrial_robot
-- ni_myrio
+- nimyrio_labview
+- pic
